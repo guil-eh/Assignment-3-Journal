@@ -4,4 +4,4 @@ APP DEV IOS UTS - ASSIGNMENT 3
 Journaling application SWIFT
 GITHUB REPO: https://github.com/guil-eh/Assignment-3-Journal
 
-
+Collaborators not showing even though added, not sure why.

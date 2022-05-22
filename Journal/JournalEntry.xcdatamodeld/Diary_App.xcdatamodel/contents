@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20B29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="JournalEntry" representedClassName="JournalEntry" codeGenerationType="class">
+        <attribute name="entry" attributeType="String"/>
+        <attribute name="timestamp" attributeType="String"/>
+        <attribute name="title" attributeType="String"/>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="JournalEntry" positionX="261" positionY="189" width="128" height="74"/>
+    </elements>
+</model>
